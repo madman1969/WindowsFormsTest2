@@ -1,0 +1,10 @@
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\bin\Debug\WindowsFormsTest2.exe.config
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\bin\Debug\WindowsFormsTest2.exe
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\bin\Debug\WindowsFormsTest2.pdb
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.csprojAssemblyReference.cache
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.Properties.Resources.resources
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.csproj.GenerateResource.cache
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.csproj.CoreCompileInputs.cache
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.exe
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.pdb
+C:\Users\aross\RiderProjects\WindowsFormsTest2\WindowsFormsTest2\obj\Debug\WindowsFormsTest2.Form1.resources
